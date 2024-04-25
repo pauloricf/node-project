@@ -1,4 +1,4 @@
-POST https://node-project-1-j9nt.onrender.com
+POST https://node-project-1-j9nt.onrender.com/videos
 Content-Type: application/json
 
 {
@@ -9,7 +9,7 @@ Content-Type: application/json
 
 ###
 
-GET https://node-project-1-j9nt.onrender.com
+GET https://node-project-1-j9nt.onrender.com/videos
 
 ###
 
